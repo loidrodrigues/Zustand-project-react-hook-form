@@ -1,12 +1,40 @@
-# React + Vite
+# Dashboard IA com Zustand, React Hook Form e Puter.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dashboard em React integrado ao Puter.js para geração de imagens com IA. Inclui login simulado com Zustand, verificação de prontidão da IA, envio de prompts e exibição da imagem gerada. Usa React Hook Form, Tailwind e React Router. **Créditos na API são necessários para uso real**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias Utilizadas
+- [React](https://react.dev/)
+- [Zustand](https://zustand-demo.pmnd.rs/)
+- [React Hook Form](https://react-hook-form.com/)
+- [React Router](https://reactrouter.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Puter.js](https://puter.com/docs/puter-js)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Demonstração
+_Adicione suas imagens ou GIFs aqui:_
+
+![Imagem 1](./assets/tela1.png)
+![Imagem 2](./assets/tela2.png)
+![Imagem 3](./assets/tela3.png)
+
+
+---
+
+## 📦 Instalação e Uso
+
+```bash
+# Clone o repositório
+git clone https://github.com/loidrodrigues/Zustand-project-react-hook-form.git
+
+# Acesse a pasta
+cd Zustand-project-react-hook-form
+
+# Instale as dependências
+npm install
+
+# Inicie o projeto
+npm run dev
