@@ -17,9 +17,10 @@ Dashboard em React integrado ao Puter.js para geração de imagens com IA. Inclu
 ## 📸 Demonstração
 _Adicione suas imagens ou GIFs aqui:_
 
-![Imagem 1](./assets/tela1.png)
-![Imagem 2](./assets/tela2.png)
-![Imagem 3](./assets/tela3.png)
+![Imagem 1](src/assets/tela1.png)
+![Imagem 2](src/assets/tela2.png)
+![Imagem 3](src/assets/tela3.png)
+
 
 
 ---
